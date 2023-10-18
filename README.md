@@ -67,4 +67,3 @@ Running the Code
     Download the dataset file "Salary_Dataset_with_Extra_Features.csv.zip" and place it in the appropriate directory.
     Run the code in a Jupyter Notebook or Python IDE to perform the data analysis and generate visualizations.
 
-Please note that this readme provides an overview of the code and its purpose. For detailed analysis and insights, refer to the Jupyter Notebook or Python script containing the code.
